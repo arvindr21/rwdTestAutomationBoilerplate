@@ -1,8 +1,6 @@
-A  Boiler Plate for Test Driven Developement using LESS Bootstrap
+A  Boiler Plate for Automating Visual testing
 =================================================================
 
-Impressed & Inspired by a lot of scaffolding templates, I have come up with my own framwork, with some custom settings. 
-
-You can find a complete blog post on how to setup, run and use this framework [here](http://thejackalofjavascript.com/bootstrap-less-boilerplate/).
+This is still a WIP boiler plate to automate responsive testing. You can read more [here](http://thejackalofjavascript.com/responsive-web-design-test-automation/).
 
 
