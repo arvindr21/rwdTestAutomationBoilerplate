@@ -1,4 +1,8 @@
-testingRWD
-==========
+A  Boiler Plate for Test Driven Developement using LESS Bootstrap
+=================================================================
 
-This is a sample framework on how to test Responsiveness of a RWD page
+Impressed & Inspired by a lot of scaffolding templates, I have come up with my own framwork, with some custom settings. 
+
+You can find a complete blog post on how to setup, run and use this framework [here](http://thejackalofjavascript.com/bootstrap-less-boilerplate/).
+
+
